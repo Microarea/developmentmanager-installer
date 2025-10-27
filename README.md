@@ -10,6 +10,6 @@ You can install the tool by downloading the setup from the following url
 
 [development version](https://raw.githubusercontent.com/Microarea/developmentmanager-installer/gh-pages/setup.exe)
 
-[stable version]https://raw.githubusercontent.com/Microarea/developmentmanager-installer/stable/setup.exe
+[stable version](https://raw.githubusercontent.com/Microarea/developmentmanager-installer/stable/setup.exe)
 
 This setup is an auto-updatable clickonce application.
